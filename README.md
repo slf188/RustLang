@@ -20,7 +20,7 @@ $ rustc main.rs
 $ ./main
 Hello, world!
 ``` 
-## Quick facts about Rust
+## ❤️ for Rust
 [Jack Dorsey on Rust](https://twitter.com/jack/status/1474263588651126788)
 
 [Most loved language on Stack Overflow since 2016](https://insights.stackoverflow.com/survey/2021#section-most-loved-dreaded-and-wanted-programming-scripting-and-markup-languages)
@@ -32,7 +32,8 @@ Hello, world!
 [Rust](https://www.rust-lang.org/)
 
 ## Contributing
-Pull requests are not welcome for this project. It is only a project that satisfies my curiosity about this famous programming language.
+Pull requests are not welcome for this project. 
+It is only a project that satisfies my curiosity about this famous programming language.
 
 ## Author
 [Felipe Vallejo](https://www.linkedin.com/in/felipe-vallejo-200188/)
