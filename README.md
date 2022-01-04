@@ -1,7 +1,7 @@
 # The Rust Programming Language
-In this repo I will review some of the most important concepts about the Rust programming language.
+In this repo I will review some of the most important concepts about the Rust Programming Language.
 
-The rust programming language introduces and explains how rust can be used to develop software in a daily basis. It contains basic information about the cargo dependency manager and many other concepts too.
+The Rust Programming Language introduces and explains how rust can be used to develop software in a daily basis. It contains basic information about the cargo dependency manager and many other concepts too.
 
 ## Installation
 To download and install rust on macOS or Linux, run the following command in your terminal:
@@ -27,7 +27,7 @@ Hello, world!
 
 [Brendan Eich on Rust](https://twitter.com/brendaneich/status/743698670701293568)
 ## Reference
-[The Rust programming language](https://doc.rust-lang.org/book/title-page.html)
+[The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
 
 [Rust](https://www.rust-lang.org/)
 
