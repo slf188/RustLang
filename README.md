@@ -1,5 +1,5 @@
 # The Rust Programming Language
-In this repo I will review some of the most important concepts about the Rust Programming Language.
+In this repo I will review some of the most important concepts about the Rust Programming Language. I will review the whole book on this language, and develop the projects that are inside this book.
 
 The Rust Programming Language introduces and explains how rust can be used to develop software in a daily basis. It contains basic information about the cargo dependency manager and many other concepts too.
 
@@ -13,11 +13,18 @@ If the install is successful, the following line will appear:
 Rust is installed now. Great!
 ```
 
-## Running a Rust program
-On Linux or macOS, enter the following commands to compile and run the file:
+## Creating a Rust program
+Run the following command to create a new folder:
 ```zh
-$ rustc main.rs
-$ ./main
+$ cargo new <folder name>
+```
+Once this command is run, an Cargo.toml file and src folder will be created.
+
+## Running a Rust program
+The following commands are used to build and compile the main.rs file:
+```zh
+$ cargo build
+$ cargo run
 Hello, world!
 ``` 
 ## ❤️ for Rust
