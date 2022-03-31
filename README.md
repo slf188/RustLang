@@ -28,6 +28,8 @@ $ cargo run
 Hello, world!
 ``` 
 ## ❤️ for Rust
+[Elon Musk on Rust](https://twitter.com/elonmusk/status/1496293976692899843)
+
 [Jack Dorsey on Rust](https://twitter.com/jack/status/1474263588651126788)
 
 [Most loved language on Stack Overflow since 2016](https://insights.stackoverflow.com/survey/2021#section-most-loved-dreaded-and-wanted-programming-scripting-and-markup-languages)
