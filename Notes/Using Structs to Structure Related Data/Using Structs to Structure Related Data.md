@@ -408,7 +408,7 @@ fn main() {
 }
 ```
 
-![Screen Shot 2022-04-06 at 21.05.04.png](Using%20Stru%202d21b/Screen_Shot_2022-04-06_at_21.05.04.png)
+![Screen](Screen Shot 2022-04-06 at 21.05.04.png)
 
 ### Methods with Parameters
 

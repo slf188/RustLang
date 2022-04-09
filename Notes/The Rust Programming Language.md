@@ -42,26 +42,7 @@ Here is a quick review of what will be reviewed in the 20 chapters:
 
 [Using Structs to Structure Related Data](https://www.notion.so/Using-Structs-to-Structure-Related-Data-d693661d77104adba51735629d6869f0)
 
-1. Introduction to the Rust language
-2. Rust features
-3. Rust’s ownership system
-4. Structs and methods
-5. Enums, match expressions and the if let control flow.
-6. Module system
-7. Data Structures
-8. Error handling
-9. Generics, traits and lifetimes
-10. Testing
-11. grep implementation
-12. Functional programming language features: Closures and iterators 
-13. Cargo
-14. Smart pointers
-15. Concurrent Programming
-16. Idioms
-17. Patterns
-18. Advanced Topics
-19. Low-level multithreaded web server
-
+[Enums and Pattern Matching](https://www.notion.so/slf188/Enums-and-Pattern-Matching-c299ffc5b8654bda8ec872b5634c29d1)
 ### Who is Ferris the Rustacean?
 
 [Ferris the Rustacean](https://rustacean.net/) is the **Rust programming language's unofficial, CC0 mascot.**
