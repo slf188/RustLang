@@ -1,15 +1,18 @@
+use std::process;
 use std::env;
+use minigrep::Config;
 
-// create the main function
 fn main(){
-    // create args of type string and collect them in a vector
     let args: Vec<String> = env::args().collect();
-    // store the first arguments in a variable called query
-    // and the second argument in a variable called filename
-    let query = &args[1];
-    let filename = &args[2];
+    let config = Config::new(&args).unwrap_or_else(|err| {
+        println!("Problem parsing arguments: {}", err);
+        std::process::exit(1);
+    });
+    println!("Searching for {}", config.query);
+    println!("In file {}", config.filename);
 
-    // print the query and the filename
-    println!("Searching for {}", query);
-    println!("In file {}", filename);
+    if let Err(e) = minigrep::run(config) {
+        println!("Application error: {}", e);
+        process::exit(1);
+    }
 }
