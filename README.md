@@ -51,4 +51,4 @@ It is only a project that satisfies my curiosity about this famous programming l
 [Felipe Vallejo](https://www.linkedin.com/in/felipe-vallejo-200188/)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)
