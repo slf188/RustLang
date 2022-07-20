@@ -42,9 +42,36 @@ Here is a quick review of what will be reviewed in the 20 chapters:
 
 [Using Structs to Structure Related Data](https://www.notion.so/Using-Structs-to-Structure-Related-Data-d693661d77104adba51735629d6869f0)
 
-[Enums and Pattern Matching](https://www.notion.so/slf188/Enums-and-Pattern-Matching-c299ffc5b8654bda8ec872b5634c29d1)
+[Enums and Pattern Matching](https://www.notion.so/Enums-and-Pattern-Matching-c299ffc5b8654bda8ec872b5634c29d1)
+
+[Managing Growing Projects with Packages, Crates and Modules](https://www.notion.so/Managing-Growing-Projects-with-Packages-Crates-and-Modules-ab4a395769ac44929fb6780afefe5db1)
+
+[Common Collections](https://www.notion.so/Common-Collections-3af9dd3787c14a26bdf447ff45dd5d70)
+
+[Error Handling](https://www.notion.so/Error-Handling-00a4b159166d47a0842d23d2376444d2)
+
+[Generic Types, Traits and Lifetimes](https://www.notion.so/Generic-Types-Traits-and-Lifetimes-946030a013ed4b1cbe3161aa83ac9c12)
+
+[Writing Automated Tests](https://www.notion.so/Writing-Automated-Tests-05526faf670d439a8598acec5e3d9e5a)
+
+[An I/O Project: Building a command line program](https://www.notion.so/An-I-O-Project-Building-a-command-line-program-29027c1cef5f48c6ab3135fa5f20726b)
+
+[Functional Language Features: Iterators and Closures](https://www.notion.so/Functional-Language-Features-Iterators-and-Closures-04bcca3d614b42bbbae5205e648ddad4)
+
+[More about Cargo and Crates.io](https://www.notion.so/More-about-Cargo-and-Crates-io-ac8935bd213e47c2979cb2c8945d11fb)
+
+[Smart Pointers](https://www.notion.so/Smart-Pointers-c4d7bd1594634a6bb860da60a3cef947)
+
+[Fearless Concurrency](https://www.notion.so/Fearless-Concurrency-80a4b6c9749f4b5d9eff6d13cd454746)
+
+[Object Oriented Programming Features in Rust](https://www.notion.so/Object-Oriented-Programming-Features-in-Rust-ab0f91e1fbfc41b19db91dd9ce820d9e)
+
+[Patterns and Matching](https://www.notion.so/Patterns-and-Matching-40cc73a1cf3647d1a5c34942abb6bf57)
+
+[Advanced Features](https://www.notion.so/Advanced-Features-3fdd26cf572647b5b3733b1db33803d0)
+
+[Final Project: Building a multithreaded web server](https://www.notion.so/Final-Project-Building-a-multithreaded-web-server-86d5b9403291491e9b1096c23935bcb6)
+
 ### Who is Ferris the Rustacean?
 
 [Ferris the Rustacean](https://rustacean.net/) is the **Rust programming language's unofficial, CC0 mascot.**
-
-[Enums and Pattern Matching](https://www.notion.so/Enums-and-Pattern-Matching-c299ffc5b8654bda8ec872b5634c29d1)
