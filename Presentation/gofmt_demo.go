@@ -9,6 +9,8 @@ func main()
 greeting := "Hello I'm Golang, I also have a formatter like Rust"
 fmt.Println(greeting)
 	// write a for loop that prints out go 3 times
+	// to use gofmt do:
+	// gofmt -s -w main.go
 	for i := 0; i < 3; i++ {
 		fmt.Printnl("Go")
 	}
