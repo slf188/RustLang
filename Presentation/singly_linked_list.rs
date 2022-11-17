@@ -1,5 +1,8 @@
 struct Node {
     data: i32,
+    // Tenemos dos opciones, o utilizamos Some() o None()
+    // lo que se encarga de hacer Option() es probar si el puntero posee un valor o no
+    // Option() es la mezcla de Some y None
     next: Option<Box<Node>>,
 }
 
